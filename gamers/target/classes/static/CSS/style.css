@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+
+.header {
+	margin: 20px;
+	padding: 20px;
+	background-color: black;
+	color: white;
+	border-bottom: 1px solid black;
+	justify-content: space-evenly;
+}
+
+.container {
+	margin: 20px;
+	padding: 20px;
+	font-family: sans-serif;
+	background-color: lightblue;
+	justify-content: center;
+}
+
+.error {
+	color: #F9214B;
+	font-weight: bold;
+}
+
+.container-2 {
+	margin: 20px;
+	padding: 20px;
+	background-color: lightblue;
+	justify-content: space-evenly;
+}
